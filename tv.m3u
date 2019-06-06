@@ -1,4 +1,1374 @@
 #EXTM3U
-
-#EXTINF:-1-tvg-logo="" group-title="Canais", cartoo
-https://assistirtvonline.xyz:25463/live/Terca-feira/Fria/127.m3u8
+ 
+#EXTINF-1,Combate HD
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36986.ts%20
+#EXTINF:-1,Combate FHD
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/38428.ts%20
+#EXTINF:-1,COMBATE 4K
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/42635.ts%20
+#EXTINF:-1,ESPN HD
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36977.ts%20
+#EXTINF:-1,ESPN Brasil HD
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36978.ts%20
+#EXTINF:-1,ESPN Extra HD
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/42910.ts%20
+#EXTINF:-1,Fox Sports HD
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36970.ts%20
+#EXTINF:-1,Fox Sports 2 HD
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36971.ts%20
+#EXTINF:-1,SPORTV 4K
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/40785.ts%20
+#EXTINF:-1,SporTV 2 HD
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36943.ts%20
+#EXTINF:-1,SporTV 3 HD
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36942.ts%20
+#EXTINF:-1,TV Red Bull HD
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/40370.ts%20
+#EXTINF:-1,Woohoo SD
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/37025.ts%20
+#EXTINF:-1,WOOHOO FHD
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/40267.ts%20
+#EXTINF:-1,ALADIM
+http://cineview.eurytus.feralhosting.com/filmes/aladdincam.mp4
+#EXTINF:-1,Dumbo
+https://www.googleapis.com/drive/v3/files/1htzMD388HJm_qNdNhTDt6PpCyyGkP0iR?alt=media&key=AIzaSyAi1fMjCVnTBs9mu_O3MHrkOazABdck6Lc
+#EXTINF:-1,Capitã marvel
+https://ia601505.us.archive.org/26/items/wn754472_gmail_Capm/Captit%C3%A3.Marvel.2019.720p.HDCAM.DUBLADO.Cine.Drive.HD.mkv%20
+#EXTINF:-1,AQUAMAN
+https://www.googleapis.com/drive/v3/files/1MBfArpCtvMXPwgG-aioT4soaSyrrFW8J?alt=media&key=AIzaSyAi1fMjCVnTBs9mu_O3MHrkOazABdck6Lc
+#EXTINF:-1,Dragon ball super : broly
+https://www.googleapis.com/drive/v3/files/1-ViILMGFnuInXGB78WoaO41z6HG01HEB?alt=media&key=AIzaSyAi1fMjCVnTBs9mu_O3MHrkOazABdck6Lc
+#EXTINF:-1,SHAZAM
+https://videoflix.lw975.usbx.me/filmes/Shazam%21%20%282019%29.mkv%20
+#EXTINF:-1,Vingadores ultimate
+https://videoflix.lw975.usbx.me/filmes/Vingadores%3A%20Ultimato.mkv%20
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36924.ts
+#EXTINF:-1,DISCOVERY H&H HD
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/37115.ts
+#EXTINF:-1,DISCOVERY ID HD
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36959.ts
+#EXTINF:-1,HISTORY HD
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36960.ts
+#EXTINF:-1,HISTORY 2 HD
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/41485.ts
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36922.ts
+#EXTINF:0,DISCOVERY THEATHER HD
+#EXTVLCOPT:network-caching=1000
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36983.ts
+#EXTINF:0,DISCOVERY TURBO HD
+#EXTVLCOPT:network-caching=1000
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36982.ts
+#EXTINF:0,DISCOVERY WORLD HD
+#EXTVLCOPT:network-caching=1000
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36981.ts
+#EXTINF:0,E! HD
+#EXTVLCOPT:network-caching=1000
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36920.ts
+#EXTINF:0,NatGeo Wild HD
+#EXTVLCOPT:
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36955.ts
+#EXTINF:0, TV APARECIDA-
+#EXTVLCOPT:network-caching=1000
+http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w404485210.m3u8
+#EXTINF:0, TV EVANGELIZAR-
+#EXTVLCOPT:network-caching=1000
+http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w309622185.m3u8
+#EXTINF:0, CANÇÃO NOVA-
+#EXTVLCOPT:network-caching=1000
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+#EXTINF:0,Baby TV HD
+#EXTVLCOPT:network-caching=1000
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36993.ts%20
+#EXTINF:0,Disney Channel HD
+#EXTVLCOPT:network-caching=1000
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36921.ts
+#EXTINF:0,Disney Junior HD
+#EXTVLCOPT:network-caching=1000
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/40517.ts%20
+#EXTINF:0,Disney XD HD
+#EXTVLCOPT:network-caching=1000
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/37109.ts
+#EXTINF:0,Gloob HD
+#EXTVLCOPT:network-caching=1000
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36915.ts%20
+#EXTINF:0,Gloobinho HD
+#EXTVLCOPT:network-caching=1000
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/38969.ts
+#EXTINF:0,Looney Tones [24h]
+#EXTVLCOPT:network-caching=1000
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/39575.ts%20
+#EXTINF:0,Nick Jr HD
+#EXTVLCOPT:network-caching=1000
+http://lista.digitalgroup.me:80/live/niva/niva/16210.ts
+#EXTINF:0,NICK JR HD
+#EXTVLCOPT:network-caching=1000
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/50933.ts%20
+#EXTINF:0,NICKELODEON HD  
+#EXTVLCOPT:network-caching=1000
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/50935.ts
+#EXTINF:0,TV RA TIM BUM HD
+#EXTVLCOPT:network-caching=1000
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/41510.ts
+#EXTINF:0,Globo SP HD
+#EXTVLCOPT:network-caching=1000
+http://tv.factoryiptv.com:80/live/WWZ44ZGs5/controliptv/37361.ts%20
+#EXTINF:0,Globo 4K
+#EXTVLCOPT:network-caching=1000
+http://tv.factoryiptv.com:80/live/WWZ44ZGs5/controliptv/43430.ts%20
+#EXTINF:0,AMC HD
+#EXTVLCOPT:network-caching=1000
+http://lista.digitalgroup.me:80/live/gsouza/gsouza/15406.ts
+#EXTINF:0,AXN HD
+#EXTVLCOPT:network-caching=1000
+http://lista.digitalgroup.me:80/live/gsouza/gsouza/1114.ts
+#EXTINF:0,CINEMAX HD
+#EXTVLCOPT:network-caching=1000
+http://lista.digitalgroup.me:80/live/gsouza/gsouza/5080.ts
+#EXTINF:0,FOX HD
+#EXTVLCOPT:network-caching=1000
+http://lista.digitalgroup.me:80/live/gsouza/gsouza/1047.ts
+#EXTINF:0,FOX LIFE HD
+#EXTVLCOPT:network-caching=1000
+http://lista.digitalgroup.me:80/live/gsouza/gsouza/1037.ts
+#EXTINF:0,FOX PREMIUM 1 HD
+#EXTVLCOPT:network-caching=1000
+http://lista.digitalgroup.me:80/live/gsouza/gsouza/2464.ts
+#EXTINF:0,FOX PREMIUM 2 HD
+#EXTVLCOPT:network-caching=1000
+http://lista.digitalgroup.me:80/live/gsouza/gsouza/2465.ts
+#EXTINF:0,FX HD
+#EXTVLCOPT:network-caching=1000
+http://lista.digitalgroup.me:80/live/gsouza/gsouza/2386.ts
+#EXTINF:0,HBO FAMILY HD
+#EXTVLCOPT:network-caching=1000
+http://lista.digitalgroup.me:80/live/gsouza/gsouza/2392.ts
+#EXTINF:0,HBO PLUS HD
+#EXTVLCOPT:network-caching=1000
+http://lista.digitalgroup.me:80/live/gsouza/gsouza/2467.ts
+#EXTINF:0,HBO SIGNATURE HD
+#EXTVLCOPT:network-caching=1000
+http://lista.digitalgroup.me:80/live/gsouza/gsouza/1013.ts
+#EXTINF:0,MAX HD
+#EXTVLCOPT:network-caching=1000
+http://lista.digitalgroup.me:80/live/gsouza/gsouza/5089.ts
+#EXTINF:0,TELECINE CULT HD
+#EXTVLCOPT:network-caching=1000
+http://lista.digitalgroup.me:80/live/gsouza/gsouza/5096.ts
+#EXTINF:0,TELECINE FUN HD
+#EXTVLCOPT:network-caching=1000
+http://lista.digitalgroup.me:80/live/gsouza/gsouza/932.ts
+#EXTINF:0,TELECINE TOUCH HD
+#EXTVLCOPT:network-caching=1000
+http://lista.digitalgroup.me:80/live/gsouza/gsouza/927.ts
+#EXTINF:0,Fish
+#EXTVLCOPT:network-caching=1000
+http://tv.factoryiptv.com:80/live/WWZ44ZGs5/controliptv/42911.ts%20
+#EXTINF:0,Band Sports HD
+#EXTVLCOPT:network-caching=1000
+http://tv.factoryiptv.com:80/live/cristiano35/cristiano35/36989.ts%20
+#EXTINF:0, RECORD NEWS (HD)-
+#EXTVLCOPT:network-caching=1000
+https://gbbrslbps-sambatech.akamaized.net/live/3170%2C7572%2Cba4dcdde00eccce84063d4a542fe9a6c%3Bbase64np%3BASabA7WuZYbrTSg%21/amlst%3AASZjGqjlYIf0DaT2/chunklist_b1089536.m3u8
+#EXTINF:0,BLOOMBERG TV - USA-
+#EXTVLCOPT:network-caching=1000
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:0, FOX 25-
+#EXTVLCOPT:network-caching=1000
+https://svc-lvanvato-cxtv-wfxt.cmgvideo.com/wfxt/2564k/index.m3u8
+#EXTINF:0, INSCREVA NO CANAL JD TUTORS IPTV
+#EXTINF:0,TV GRANDE NATAL HD
+#EXTVLCOPT:network-caching=1000
+https://hls.ssh101.com/live/tvgrandenatalrn/index.m3u8
+#EXTINF:0,GLOBO
+#EXTVLCOPT:network-caching=1000
+http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/3006.ts
+#EXTINF:0, SBT
+#EXTVLCOPT:network-caching=1000
+https://5a1c76baf08c0.streamlock.net/z343-live/stream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0, SBT PI
+#EXTVLCOPT:network-caching=1000
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?
+#EXTINF:0, BAND SP
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+#EXTINF:0, BAND
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/live.m3u8
+#EXTINF:0, REDE TV SP
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
+#EXTINF:0, REDE TV RJ
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+#EXTINF:0,RECORD
+#EXTVLCOPT:network-caching=1000
+http://srv3.zoeweb.tv:1935/zw315/zw315tvs/chunklist_w1106684646.m3u8
+#EXTINF:0,RECORD
+#EXTVLCOPT:network-caching=1000
+http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
+#EXTINF:0, REDE FAMÍLIA HD
+#EXTVLCOPT:network-caching=1000
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+#EXTINF:0, TVE BRASIL
+#EXTVLCOPT:network-caching=1000
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:0, TVE BA HD
+#EXTVLCOPT:network-caching=1000
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:0, REDE BRASIL®
+#EXTVLCOPT:network-caching=1000
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8%20
+#EXTINF:0, REDE BRASIL®
+#EXTVLCOPT:network-caching=1000
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/live.m3u8
+#EXTINF:0, TV EDUCATIVA
+#EXTVLCOPT:network-caching=1000
+http://rbc.directradios\musicas\som (leo gondim).com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:0, TV EDUCATIVA
+#EXTVLCOPT:network-caching=1000
+http://rbc.directradios\musicas\som (leo gondim).com:1935/rbc/rbc_720p/playlist.m3u8
+#EXTINF:0,TV Escola
+#EXTVLCOPT:network-caching=1000
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8?
+#EXTINF:0, TV GAZETA
+#EXTVLCOPT:network-caching=1000
+http://api.new.livestream.com:80/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:0, TV GAZETA HD
+#EXTVLCOPT:network-caching=1000
+http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8
+#EXTINF:0, TV CULTURA HD
+#EXTVLCOPT:network-caching=1000
+http://177.73.84.49/hls/live/live.m3u8
+#EXTINF:0,TV CULTURA PA
+#EXTVLCOPT:network-caching=1000
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8?EDSONSOUSALIST
+#EXTINF:0,TVU RECIFE
+#EXTVLCOPT:network-caching=1000
+http://150.161.93.173/hls/720/index.m3u8?EDSONSOUSALIST
+#EXTINF:0, CAT TVE
+#EXTVLCOPT:network-caching=1000
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?EDSONSOUSALIST
+#EXTINF:0, TV UP HD
+#EXTVLCOPT:network-caching=1000
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0, TV ESCOLA
+#EXTVLCOPT:network-caching=1000
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8
+#EXTINF:0, TV ESCOLA
+#EXTVLCOPT:network-caching=1000
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/chunklist.m3u8
+#EXTINF:0,1001 NOITES
+#EXTVLCOPT:network-caching=1000
+http://streaming63.sitehosting.com.br:1935/abdalla/_definst_/abdalla/chunklist.m3u8
+#EXTINF:0,NBR
+#EXTVLCOPT:network-caching=1000
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live/stream1.m3u8
+#EXTINF:0,NBR
+#EXTVLCOPT:network-caching=1000
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8
+#EXTINF:0,TERRA VIVA
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br:1935/band/terraviva/chunklist_w1724458897.m3u8
+#EXTINF:0, AGRO BRASIL
+#EXTVLCOPT:network-caching=1000
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:0,CANAL RURAL
+#EXTVLCOPT:network-caching=1000
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
+#EXTINF:0, LIVRE TV - RN
+#EXTVLCOPT:network-caching=1000
+http://tv02.logicahost.com.br:1935/livretv/livretv/live.m3u8
+#EXTINF:0, LIVRE TV - RN
+#EXTVLCOPT:network-caching=1000
+http://wse01.logicahost.com.br:1935/livretv/livretv/chunklist_w565915239.m3u8
+#EXTINF:0, TV PANTANAL - MS
+#EXTVLCOPT:network-caching=1000
+http://177.36.192.78:1935/tvpantanalms/tvpantanalms/chunklist_w636935633.m3u8
+#EXTINF:0,MASTER TV
+#EXTVLCOPT:network-caching=1000
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+#EXTINF:0, TOP TV
+#EXTVLCOPT:network-caching=1000
+http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8
+#EXTINF:0, TV DIÁRIO DO SERTÃO - PB
+#EXTVLCOPT:network-caching=1000
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+#EXTINF:0, TV PORTAL MÍDIA - PB
+#EXTVLCOPT:network-caching=1000
+http://video02.kshost.com.br/tvportalmidia/tvportalmidia/chunklist_w1056149778.m3u8
+#EXTINF:0,TV GERAL
+#EXTVLCOPT:network-caching=1000
+http://fms1.tacitus.com.br:1935/tvgeral/tvgeral/playlist.m3u8
+#EXTINF:0, SEC TV
+#EXTVLCOPT:network-caching=1000
+http://hd4.com.br:1935/sectv2/sectv2/playlist.m3u8%20
+#EXTINF:0, TV CINEC
+#EXTVLCOPT:network-caching=1000
+https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/chunklist_w323615480.m3u8
+#EXTINF:0, REDE MEIO NORTE  
+#EXTVLCOPT:network-caching=1000
+http://api.new.livestream.com/accounts/3332377/events/2958396/live.m3u8
+#EXTINF:0,TV MACEIÓ
+#EXTVLCOPT:network-caching=1000
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:0, TV FLORIPA
+#EXTVLCOPT:network-caching=1000
+http://11.fm5.com.br:1935/tvfloripa/tvfloripa/live.m3u8
+#EXTINF:0,TV INES
+#EXTVLCOPT:network-caching=1000
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream2/playlist.m3u8
+#EXTINF:0,TV INES HD
+#EXTVLCOPT:network-caching=1000
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestream3/playlist.m3u8
+#EXTINF:0, DTTV
+#EXTVLCOPT:network-caching=1000
+http://streaming63.sitehosting.com.br:1935/tvneponu/tvneponu/live.m3u8
+#EXTINF:0,RICOS TV
+#EXTVLCOPT:network-caching=1000
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8?LISTASDAGLAU
+#EXTINF:0, SOBRENATURAL TV
+#EXTVLCOPT:network-caching=1000
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?LISTASDAGLAU
+#EXTINF:0, TV MACEIÓ
+#EXTVLCOPT:network-caching=1000
+http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8?LISTASDAGLAU
+#EXTINF:0,TV MACEIÓ 2
+#EXTVLCOPT:network-caching=1000
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?LISTASDAGLAU
+#EXTINF:0,TV Santa Cecilia (Santos-SP)
+#EXTVLCOPT:network-caching=1000
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8?LISTASDAGLAU
+#EXTINF:0,REDE NEW
+#EXTVLCOPT:network-caching=1000
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8?LISTASDAGLAU
+#EXTINF:0, REDE CAXIAS TV
+#EXTVLCOPT:network-caching=1000
+http://stmv1.srvstm.com/luisclaudio8226/luisclaudio8226/playlist.m3u8?LISTASDAGLAU
+#EXTINF:0,REDE RC
+#EXTVLCOPT:network-caching=1000
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8?LISTASDAGLAU
+#EXTINF:0,TV A CARA DA BAHIA
+#EXTVLCOPT:network-caching=1000
+http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/live.m3u8?LISTASDAGLAU
+#EXTINF:0,TV ALESE
+#EXTVLCOPT:network-caching=1000
+http://digilab-live.hls.adaptive.level3.net:80/hls-live/digilablive-tvalese/_definst_/live/stream3.m3u8?LISTASDAGLAU
+#EXTINF:0,TV ALESP
+#EXTVLCOPT:network-caching=1000
+http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8?LISTASDAGLAU
+#EXTINF:0,TV ANTARES
+#EXTVLCOPT:network-caching=1000
+http://srv3.zoeweb.tv:1935/z99-live/stream/livestream.m3u8?LISTASDAGLAU
+#EXTINF:0,TV BELO HORIZONTE
+#EXTVLCOPT:network-caching=1000
+http://stmv2.euroti.com.br:1935/tvbelohorizonte/tvbelohorizonte/live.m3u8?LISTASDAGLAU
+#EXTINF:0,TV CALDEIRÃO
+#EXTVLCOPT:network-caching=1000
+http://wz5.dnip.com.br:1935/tvcaldeirao/tvcaldeirao.sdp/live.m3u8?LISTASDAGLAU
+#EXTINF:0,TV CANAL 2
+#EXTVLCOPT:network-caching=1000
+http://stream2.camara.gov.br:80/tv2/manifest.m3u8?LISTASDAGLAU
+#EXTINF:0,TV CUMARU
+#EXTVLCOPT:network-caching=1000
+http://stmv2.euroti.com.br:1935/tvcumaru/tvcumaru/live.m3u8?
+#EXTINF:0,TV DAS ARTES
+#EXTVLCOPT:network-caching=1000
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/live.m3u8?LISTASDAGLAU
+#EXTINF:0,TV DESTAK
+#EXTVLCOPT:network-caching=1000
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?LISTADASGLAU
+#EXTINF:0,TV DO POVO
+#EXTVLCOPT:network-caching=1000
+http://tv02.logicahost.com.br:1935/tvdopovo/tvdopovo/live.m3u8?LISTASDAGLAU
+#EXTINF:0,TV ELÓI MENDES
+#EXTVLCOPT:network-caching=1000
+http://stmv2.euroti.com.br:1935/tveloimendes/tveloimendes/live.m3u8?LISTADASGLAU
+#EXTINF:0,TV FLORIPA
+#EXTVLCOPT:network-caching=1000
+http://11.fm5.com.br:1935/tvfloripa/tvfloripa/live.m3u8?LISTASDAGLAU
+#EXTINF:0,TV GOIÁS
+#EXTVLCOPT:network-caching=1000
+http://stmv2.euroti.com.br:1935/tvgoias/tvgoias/live.m3u8?LISTASDAGLAU
+#EXTINF:0,TV GUARANY
+#EXTVLCOPT:network-caching=1000
+http://wsecast.com.br:1935/rtguarany/rtguarany/live.m3u8?LISTASDAGLAU
+#EXTINF:0,TV ITABUNA
+#EXTVLCOPT:network-caching=1000
+http://wse7.player.tv.br:1935/acao50/acao50/live.m3u8?LISTASDAGLAU
+#EXTINF:0,TV ITAPETININGA
+#EXTVLCOPT:network-caching=1000
+http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8?LISTASDAGLAU
+#EXTINF:0,TV J.SID
+#EXTVLCOPT:network-caching=1000
+http://stmv2.euroti.com.br:1935/tvjsid/tvjsid/live.m3u8?LISTASDAGLAU
+#EXTINF:0,TV LITORAL PANORAMA
+#EXTVLCOPT:network-caching=1000
+http://streaming03.zas.media:1935/panorama/panorama/live.m3u8?LISTASDAGLAU
+#EXTINF:0,TV MACHADO
+#EXTVLCOPT:network-caching=1000
+http://stmv2.euroti.com.br:1935/tvmachado/tvmachado/live.m3u8?LISTASDAGLAU
+#EXTINF:0,TV PORTAL DA FEIRA
+#EXTVLCOPT:network-caching=1000
+http://tv01.logicahost.com.br:1935/portaldafeira/portaldafeira/live.m3u8?LISTASGLAU
+#EXTINF:0,TV PORTAL MIDIA
+#EXTVLCOPT:network-caching=1000
+http://painel.tvdigitalhd.org:1935/tvportalmidia/tvportalmidia/live.m3u8?LISTASDAGLAU
+#EXTINF:0,TV POVO CIGANO
+#EXTVLCOPT:network-caching=1000
+http://streaming30.sitehosting.com.br:1935/cigano/cigano/live.m3u8?LISTASDAGLAU
+#EXTINF:0,TV RIO PRETO
+#EXTVLCOPT:network-caching=1000
+http://186.227.165.118:1935/insatv/livestream/live.m3u8?LISTASDAGLAU
+#EXTINF:0,TV TRANSAMÉRICA
+#EXTVLCOPT:network-caching=1000
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8?LISTASDAGLAU
+#EXTINF:0,TV UNIVERSITÁRIA
+#EXTVLCOPT:network-caching=1000
+http://150.161.93.173:80/hls/720/index.m3u8?LISTASDAGLAU
+#EXTINF:0,TV UNIÃO
+#EXTVLCOPT:network-caching=1000
+http://stmv1.euroti.com.br:1935/tvuniao/tvuniao/live.m3u8?LISTASDAGLAU
+#EXTINF:0,TV SOL HD
+#EXTVLCOPT:network-caching=1000
+http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8?LISTASDAGLAU
+#EXTINF:0,TV VIANNEY
+#EXTVLCOPT:network-caching=1000
+http://wse7.player.tv.br:1935/iolandomauriciodasilva800/iolandomauriciodasilva800/live.m3u8?LISTASDAGLAU
+#EXTINF:0,TV DIFUSORA SUL HD
+#EXTVLCOPT:network-caching=1000
+http://srv3.zoeweb.tv:1935/z438-live/stream/livestream.m3u8?LISTASDAGLAU
+#EXTINF:0,CANAL 20 TV
+#EXTVLCOPT:network-caching=1000
+http://wse8.player.tv.br:1935/canal20/canal20/live.m3u8?LISTASDAGLAU
+#EXTINF:0,TVC BH
+#EXTVLCOPT:network-caching=1000
+http://wse3.player.tv.br:1935/tvcbh/tvcbh/live.m3u8?LISTASDAGLAU
+#EXTINF:0,TV ÊXITO
+#EXTVLCOPT:network-caching=1000
+http://flashd.localmidia.com.br:1935/tvexito/aovivo/live.m3u8?LISTASDAGLAU
+#EXTINF:0,CONVERT TV E RÁDIO
+#EXTVLCOPT:network-caching=1000
+http://stmv2.euroti.com.br:1935/tvconnvert/tvconnvert/live.m3u8?LISTASDAGLAU
+#EXTINF:0,CORREIO GOIANO TV
+#EXTVLCOPT:network-caching=1000
+http://tv01.logicahost.com.br:1935/correiogoianotv/correiogoianotv/live.m3u8?LISTASDAGLAU
+#EXTINF:0,CREATIVE TV
+#EXTVLCOPT:network-caching=1000
+http://streaming63.sitehosting.com.br:1935/jandy/jandy/live.m3u8?LISTASDAGLAU
+#EXTINF:0,DTTV
+#EXTVLCOPT:network-caching=1000
+http://streaming63.sitehosting.com.br:1935/tvneponu/tvneponu/live.m3u8?LISTASDAGLAU
+#EXTINF:0,ITU TV
+#EXTVLCOPT:network-caching=1000
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?LISTASDAGLAU
+#EXTINF:0,MARICÁ TV
+#EXTVLCOPT:network-caching=1000
+http://wse8.player.tv.br:1935/maricatv/maricatv/live.m3u8?LISTASDAGLAU
+#EXTINF:0,MIL E UMA NOITES
+#EXTVLCOPT:network-caching=1000
+http://streaming63.sitehosting.com.br:1935/abdalla/abdalla/live.m3u8?LISTASDAGLAU
+#EXTINF:0,MKK WEB TV
+#EXTVLCOPT:network-caching=1000
+http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8?LISTASDAGLAU
+#EXTINF:0,NOVA TV VALE
+#EXTVLCOPT:network-caching=1000
+http://stmv2.euroti.com.br:1935/tvvale/tvvale/live.m3u8?LISTASDAGLAU
+#EXTINF:0,UNISC TV
+#EXTVLCOPT:network-caching=1000
+http://tv.unisc.br:80/hls/test.m3u8?LISTASDAGLAU
+#EXTINF:0,VALE TV BRASIL
+#EXTVLCOPT:network-caching=1000
+http://stmv1.euroti.com.br:1935/valetvbrasil/valetvbrasil/live.m3u8?LISTASDSGLAU
+#EXTINF:0,VV8 TV
+#EXTVLCOPT:network-caching=1000
+http://servidor.saudeline.tv.br:1935/live/myStream1/livestream.m3u8?LISTASDAGLAU
+#EXTINF:0,WEB TV NOVA PARAÍBA
+#EXTVLCOPT:network-caching=1000
+http://stmv1.euroti.com.br:1935/tv487/tv487/live.m3u8?LISTASDAGLAU
+#EXTINF:0,WEB TV UAI
+#EXTVLCOPT:network-caching=1000
+http://tv01.logicahost.com.br:1935/tvuai/tvuai/live.m3u8?LISTASDAGLAU
+#EXTINF:0,WTJ TV MINAS
+#EXTVLCOPT:network-caching=1000
+http://painel.tvdigitalhd.org:1935/wladimir23243/wladimir23243/live.m3u8?LISTASDAGLAU
+#EXTINF:0,TV DIGITAL BIRIGUI
+#EXTVLCOPT:network-caching=1000
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?LISTASDAGLAU
+#EXTINF:0, TV ZAINE
+#EXTVLCOPT:network-caching=1000
+https://593d7fe3c9b0d.streamlock.net/tvzaine/tvzaine/chunklist_w163222574.m3u8?LISTASDAGLAU
+#EXTINF:0,TVU Recife
+#EXTVLCOPT:network-caching=1000
+http://54.39.53.38/live/NDPWVomrFq/fq1qraVLlv/63.m3u8
+#EXTINF:0,TVU Recife
+#EXTVLCOPT:network-caching=1000
+http://150.161.93.173/hls/720/index.m3u8?leogondim
+#EXTINF:0,TV Maceió
+#EXTVLCOPT:network-caching=1000
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?leogondim
+#EXTINF:0,SBT PE
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1716953599_b176000_sleng.m3u8
+#EXTINF:0,SBT PE HD
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
+#EXTINF:0,SBT PE Interior
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?leogondim
+#EXTINF:0,Band SP
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br:1935/geob_band/bandapp/playlist.m3u8?leogondim
+#EXTINF:0,Band SP HD
+#EXTVLCOPT:network-caching=1000
+http://177.12.99.108:8000/play/a004?leogondim
+#EXTINF:0,Band PA
+#EXTVLCOPT:network-caching=1000
+https://5937c27322550.streamlock.net/rbatv12/rbatv12/playlist.m3u8?leogondim
+#EXTINF:0,Band PB HD
+#EXTVLCOPT:network-caching=1000
+http://177.12.99.108:8000/play/a00p?leogondim
+#EXTINF:0,Rede Brasil SP
+#EXTVLCOPT:network-caching=1000
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8?leogondim
+#EXTINF:0,Rede Brasil DE
+#EXTVLCOPT:network-caching=1000
+http://rbc.directradios\musicas\som (leo gondim).com:1935/rbc/smil:rbc.smil/playlist.m3u8?leogondim
+#EXTINF:0,Rede Brasil PA
+#EXTVLCOPT:network-caching=1000
+http://video01.tvdigitalhd.org:1935/tv31966/tv31966/playlist.m3u8?leogondim
+#EXTINF:0,TV Brasil HD
+#EXTVLCOPT:network-caching=1000
+http://177.12.99.108:8000/play/a00c?leogondim
+#EXTINF:0,TV Cultura SP HD
+#EXTVLCOPT:network-caching=1000
+http://177.12.99.108:8000/play/a008?leogondim
+#EXTINF:0,TV Cultura SE
+#EXTVLCOPT:network-caching=1000
+http://wz-brasil1.comets.com.br/tvaperipe/aovivo/playlist.m3u8?leogondim
+#EXTINF:0,TV Cultura PE
+#EXTVLCOPT:network-caching=1000
+http://wz-brasil1.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8?leogondim
+#EXTINF:0,TV Cultura SC
+#EXTVLCOPT:network-caching=1000
+http://streaming03.zas.media:1935/panorama/panorama/playlist.m3u8?leogondim
+#EXTINF:0,TV Cultura MG
+#EXTVLCOPT:network-caching=1000
+https://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8?leogondim
+#EXTINF:0,TV Cultura GO
+#EXTVLCOPT:network-caching=1000
+http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8?leogondim
+#EXTINF:0,TV Cultura ES
+#EXTVLCOPT:network-caching=1000
+http://stmv4.srvstm.com:1935/tvsimcolatina/tvsimcolatina/playlist.m3u8?leogondim
+#EXTINF:0,TV Cultura PA
+#EXTVLCOPT:network-caching=1000
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8?leogondim
+#EXTINF:0,TV Cultura BA
+#EXTVLCOPT:network-caching=1000
+http://cdn.comets.com.br/tvbaianahd/aovivo/playlist.m3u8?leogondim
+#EXTINF:0,TV Cultura PR
+#EXTVLCOPT:network-caching=1000
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?leogondim
+#EXTINF:0,TV Cultura PR HD
+#EXTVLCOPT:network-caching=1000
+http://200.189.113.201/hls/tve.m3u8?leogondim
+#EXTINF:0,TV Cultura PB HD
+#EXTVLCOPT:network-caching=1000
+http://177.73.84.49/hls/live/live.m3u8?leogondim
+#EXTINF:0,Record SP HD
+#EXTVLCOPT:network-caching=1000
+http://177.12.99.108:8000/play/a00o?leogondim
+#EXTINF:0,Record AM
+#EXTVLCOPT:network-caching=1000
+http://iphone-streaming.ustream.tv:80/uhls/22972089/streams/live/playlist.m3u8?leogondim
+#EXTINF:0,Record RN
+#EXTVLCOPT:network-caching=1000
+http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/playlist.m3u8?leogondim
+#EXTINF:0,Record GO
+#EXTVLCOPT:network-caching=1000
+http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8?leogondim
+#EXTINF:0,Record ES
+#EXTVLCOPT:network-caching=1000
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8?leogondim
+#EXTINF:0,Record MT
+#EXTVLCOPT:network-caching=1000
+http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/playlist.m3u8?leogondim
+#EXTINF:0,Record Moçambique
+#EXTVLCOPT:network-caching=1000
+http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8?leogondim
+#EXTINF:0,Rede TV RS
+#EXTVLCOPT:network-caching=1000
+https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/playlist.m3u8?leogondim
+#EXTINF:0,Rede TV PB
+#EXTVLCOPT:network-caching=1000
+https://59f2354c05961.streamlock.net:1443/tvarapuan/_definst_/tvarapuan/playlist.m3u8?leogondim
+#EXTINF:0,Rede TV PB HD
+#EXTVLCOPT:network-caching=1000
+http://177.12.99.108:8000/play/a00r?leogondim
+#EXTINF:0,Rede TV RO
+#EXTVLCOPT:network-caching=1000
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8?leogondim
+#EXTINF:0,TVE RS
+#EXTVLCOPT:network-caching=1000
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?leogondim
+#EXTINF:0,TVE BA HD
+#EXTVLCOPT:network-caching=1000
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?leogondim
+#EXTINF:0,TV Escola
+#EXTVLCOPT:network-caching=1000
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/playlist.m3u8?leogondim
+#EXTINF:0,TV Escola HD
+#EXTVLCOPT:network-caching=1000
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8?leogondim
+#EXTINF:0,Terra Viva
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u8?leogondim
+#EXTINF:0,NBR
+#EXTVLCOPT:network-caching=1000
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8?leogondim
+#EXTINF:0,TV Justiça
+#EXTVLCOPT:network-caching=1000
+http://177.12.99.108:8000/play/a013?leogondim
+#EXTINF:0,TV Câmara
+#EXTVLCOPT:network-caching=1000
+http://stream2.camara.leg.br:8134/tv1/manifest.m3u8
+#EXTINF:0, INSCREVA NO CANAL
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/channel/UCsY8N8Dxr-F5EmuJThz34XA
+#EXTINF:0,LISTA PAGA
+#EXTVLCOPT:network-caching=1000
+http://maxptv.ddns.net:25461/live/MA020/0706/230.ts
+#EXTINF:0,21994309515
+#EXTVLCOPT:network-caching=1000
+http://maxptv.ddns.net:25461/live/MA020/0706/230.ts
+#EXTINF:0,Animais África do Sul
+#EXTVLCOPT:network-caching=1000
+http://stream.africam.com:1935/tm/tm.stream_360p/playlist.m3u8?LEOGONDIM
+#EXTINF:0,Rio de Janeiro - Copacabana
+#EXTVLCOPT:network-caching=1000
+http://video3.earthcam.com/fecnetwork/6593.flv/playlist.m3u8?LEOGONDIM
+#EXTINF:0,Aeroporto de Congonhas de São Paulo
+#EXTVLCOPT:network-caching=1000
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_135.stream/playlist.m3u8?LEOGONDIM
+#EXTINF:0,Ubatuba - Praia Enseaba
+#EXTVLCOPT:network-caching=1000
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_204.stream/playlist.m3u8?LEOGONDIM
+#EXTINF:0,Arena Allianz Parque - Palestra Itália
+#EXTVLCOPT:network-caching=1000
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_1093.stream/playlist.m3u8?LEOGONDIM
+#EXTINF:0,Av. Interlagos - Shopping Interlagos
+#EXTVLCOPT:network-caching=1000
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_801.stream/playlist.m3u8?LEOGONDIM
+#EXTINF:0,Marginal Pinheiros Trânsito
+#EXTVLCOPT:network-caching=1000
+https://d1h84if288zv9w.cloudfront.net/7dias/0be3_69.stream/playlist.m3u8?LEOGONDIM
+#EXTINF:0,Pico do gavião - Andradas MG
+#EXTVLCOPT:network-caching=1000
+http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m3u8?LEOGONDIM
+#EXTINF:0,Estúdio 102 FM Itajaí - SC
+#EXTVLCOPT:network-caching=1000
+http://streaming2.aquisolucoes.com.br:1935/radio102video/aovivo/playlist.m3u8?LEOGONDIM
+#EXTINF:0,Estúdio 90.5 FM São Paulo - SP
+#EXTVLCOPT:network-caching=1000
+http://media.sgr.globo.com:1935/VideoCBN/cbnsp1.sdp/playlist.m3u8?LEOGONDIM
+#EXTINF:0,Estúdio 91.7 FM Cascavel - PR
+#EXTVLCOPT:network-caching=1000
+http://stream.catve.com.br:1935/radiocamera/livestream/playlist.m3u8?LEOGONDIM
+#EXTINF:0,Estúdio 96.5 FM Rio de Janeiro - RJ
+#EXTVLCOPT:network-caching=1000
+http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8?LEOGONDIM
+#EXTINF:0,Estúdio 100.5 FM Rio de Janeiro - RJ
+#EXTVLCOPT:network-caching=1000
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8?LEOGONDIM
+#EXTINF:0,Estúdio 90.3 FM Recife - PE
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br:1935/ne10/ne10-radiojornal-recife-video-web.sdp/playlist.m3u8?LEOGONDIM
+#EXTINF:0,Novo Templo da Igreja da Graça - SP
+#EXTVLCOPT:network-caching=1000
+http://flash1.crossdigital.com.br:1935/camongrace/camongrace.stream/playlist.m3u8?LEOGONDIM
+#EXTINF:0, SBT GO HD
+#EXTVLCOPT:network-caching=1000
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8
+#EXTINF:0, SBT GO HD
+#EXTVLCOPT:network-caching=1000
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1285729810_b796000.m3u8
+#EXTINF:0, SBT GO SD
+#EXTVLCOPT:network-caching=1000
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/playlist.m3u8
+#EXTINF:0, SBT PI HD
+#EXTVLCOPT:network-caching=1000
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:0, SBT PE SD
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:0, SBT PE HD
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
+#EXTINF:0, SBT PE HD
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+#EXTINF:0, SBT - PE | CARUARÚ
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+#EXTINF:0, SBT MA
+#EXTVLCOPT:network-caching=1000
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
+#EXTINF:0, SBT - MA | IMPERATRIZ
+#EXTVLCOPT:network-caching=1000
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w264526402.m3u8
+#EXTINF:0, BAND SP
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+#EXTINF:0, JOGO ABERTO
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br/geob_band/jogoaberto/chunklist_w1351196461.m3u8
+#EXTINF:0, BAND PA
+#EXTVLCOPT:network-caching=1000
+http://stmv3.srvstm.com:1935/rbatv12/rbatv12/playlist.m3u8
+#EXTINF:0, REDE TV RJ
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+#EXTINF:0, REDE TV! - RONDÔNIA
+#EXTVLCOPT:network-caching=1000
+http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8
+#EXTINF:0, RECORD TV ÁGUA BOA
+#EXTVLCOPT:network-caching=1000
+http://painelvj.com.br:1935/tvaguaboa/tvaguaboa.sdp/live.m3u8
+#EXTINF:0, RECORD GO
+#EXTVLCOPT:network-caching=1000
+http://srv3.zoeweb.tv:1935/zw315/zw315tvs/chunklist_w1106684646.m3u8
+#EXTINF:0, RECORD GO
+#EXTVLCOPT:network-caching=1000
+http://srv3.zoeweb.tv:1935/zw315/zw315tvs/playlist.m3u8
+#EXTINF:0, RECORD MT
+#EXTVLCOPT:network-caching=1000
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8
+#EXTINF:0, RECORD MT
+#EXTVLCOPT:network-caching=1000
+http://wz3.dnip.com.br:1935/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
+#EXTINF:0, Record RJ SD
+#EXTVLCOPT:network-caching=1000
+http://srv3.zoeweb.tv:1935/zw315/zw315tvs/chunklist_w319268296.m3u8
+#EXTINF:0, REDE FAMÍLIA HD
+#EXTVLCOPT:network-caching=1000
+http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
+#EXTINF:0, TV DIARIO
+#EXTVLCOPT:network-caching=1000
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+#EXTINF:0, TVE BRASIL
+#EXTVLCOPT:network-caching=1000
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:0, TVE BA HD
+#EXTVLCOPT:network-caching=1000
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:0, REDE BRASIL®
+#EXTVLCOPT:network-caching=1000
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+#EXTINF:0, REDE BRASIL®
+#EXTVLCOPT:network-caching=1000
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/live.m3u8
+#EXTINF:0, TV EDUCATIVA
+#EXTVLCOPT:network-caching=1000
+http://rbc.directradios\musicas\som (leo gondim).com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:0, TV EDUCATIVA
+#EXTVLCOPT:network-caching=1000
+http://rbc.directradios\musicas\som (leo gondim).com:1935/rbc/rbc_720p/playlist.m3u8
+#EXTINF:0, TV CULTURA PARAÍBA
+#EXTVLCOPT:network-caching=1000
+http://177.73.84.49:80/hls/live/live.m3u8
+#EXTINF:0, TV CULTURA PARAÍBA
+#EXTVLCOPT:network-caching=1000
+http://ftp.tvitarare.com.br:80/hls/live/live.m3u8
+#EXTINF:0, TV CULTURA HD
+#EXTVLCOPT:network-caching=1000
+http://177.73.84.49/hls/live/live.m3u8
+#EXTINF:0, TV CULTURA MG
+#EXTVLCOPT:network-caching=1000
+http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
+#EXTINF:0, TV CULTURA PA
+#EXTVLCOPT:network-caching=1000
+http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:0, TV CULTURA BAHIA HD
+#EXTVLCOPT:network-caching=1000
+http://cdn2.comets.com.br/tvbaianahd/aovivo/chunklist.m3u8
+#EXTINF:0, TVU RECIFE
+#EXTVLCOPT:network-caching=1000
+http://150.161.93.173/hls/720/index.m3u8
+#EXTINF:0, CAT TVE
+#EXTVLCOPT:network-caching=1000
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
+#EXTINF:0, TV UP HD
+#EXTVLCOPT:network-caching=1000
+http://caikron.com.br:1935/unipar/tvup/chunklist_w737489399.m3u8
+#EXTINF:0, TV UP HD
+#EXTVLCOPT:network-caching=1000
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+#EXTINF:0, TV ESCOLA
+#EXTVLCOPT:network-caching=1000
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8
+#EXTINF:0, TV ESCOLA
+#EXTVLCOPT:network-caching=1000
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream2/chunklist.m3u8
+#EXTINF:0, TV AMAZON SAT
+#EXTVLCOPT:network-caching=1000
+http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
+#EXTINF:0, 1001 NOITES
+#EXTVLCOPT:network-caching=1000
+http://streaming63.sitehosting.com.br:1935/abdalla/_definst_/abdalla/chunklist.m3u8
+#EXTINF:0, NBR
+#EXTVLCOPT:network-caching=1000
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live/stream1.m3u8
+#EXTINF:0, NBR
+#EXTVLCOPT:network-caching=1000
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8
+#EXTINF:0, TERRA VIVA
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br:1935/band/terraviva/chunklist_w1724458897.m3u8
+#EXTINF:0, AGRO BRASIL
+#EXTVLCOPT:network-caching=1000
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:0, CANAL RURAL
+#EXTVLCOPT:network-caching=1000
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
+#EXTINF:0, RECORD MT
+#EXTVLCOPT:network-caching=1000
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/playlist.m3u8
+#EXTINF:0, RECORD GO
+#EXTVLCOPT:network-caching=1000
+http://srv3.zoeweb.tv:1935/zw315/zw315tvs/chunklist_w1106684646.m3u8
+#EXTINF:0, BAND
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+#EXTINF:0, BAND PA
+#EXTVLCOPT:network-caching=1000
+http://stmv3.srvstm.com/rbatv12/rbatv12/playlist.m3u8
+#EXTINF:0, REDE TV RS
+#EXTVLCOPT:network-caching=1000
+https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/playlist.m3u8
+#EXTINF:0, REDE TV RJ
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+#EXTINF:0, REDE BRASIL SP
+#EXTVLCOPT:network-caching=1000
+http://tv01.logicahost.com.br:1935/rbtv/rbtv/playlist.m3u8
+#EXTINF:0, TV ESCOLA
+#EXTVLCOPT:network-caching=1000
+http://liveabr2.sambatech.com.br:80/abr/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestreamabr.m3u8
+#EXTINF:0, TV ESCOLA HD
+#EXTVLCOPT:network-caching=1000
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/playlist.m3u8
+#EXTINF:0, TV APARECIDA
+#EXTVLCOPT:network-caching=1000
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/chunklist_w1646479017.m3u8?
+#EXTINF:0, TV FUTURA
+#EXTVLCOPT:network-caching=1000
+http://177.73.84.49/hls/live/live.m3u8
+#EXTINF:0, TV CULTURA
+#EXTVLCOPT:network-caching=1000
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+#EXTINF:0, TV PANTANAL MS
+#EXTVLCOPT:network-caching=1000
+http://177.36.192.78:1935/tvpantanalms/tvpantanalms/playlist.m3u8
+#EXTINF:0, TV NOVO TEMPO
+#EXTVLCOPT:network-caching=1000
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
+#EXTINF:0, TV CANÇÃO NOVA
+#EXTVLCOPT:network-caching=1000
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
+#EXTINF:0, CANÇÃO NOVA HD
+#EXTVLCOPT:network-caching=1000
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-b.m3u8?iptv2018?sd=10&rebase=on
+#EXTINF:0, AMAZON SAT
+#EXTVLCOPT:network-caching=1000
+http://slrp.sambavideos.sambatech.com:80/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/live.m3u8
+#EXTINF:0, TOP TV
+#EXTVLCOPT:network-caching=1000
+http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8
+#EXTINF:0, RÁDIO MONTE CARLOS
+#EXTVLCOPT:network-caching=1000
+http://fms.105.net:1935/live/rmc1/livestream.m3u8
+#EXTINF:0, HITS TV
+#EXTVLCOPT:network-caching=1000
+http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8
+#EXTINF:0, TV WEB NOVA PARAÍBA
+#EXTVLCOPT:network-caching=1000
+http://stmv1.sejaguia.com.br/tv487/tv487/playlist.m3u8
+#EXTINF:0, CANAL RURAL
+#EXTVLCOPT:network-caching=1000
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
+#EXTINF:0, AGRO CANAL
+#EXTVLCOPT:network-caching=1000
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:0, TV DIÁRIO
+#EXTVLCOPT:network-caching=1000
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+#EXTINF:0, TERRA VIVA
+#EXTVLCOPT:network-caching=1000
+http://evpp.mm.uol.com.br:1935/band/terraviva/playlist.m3u8?
+#EXTINF:0, TVE BAHIA
+#EXTVLCOPT:network-caching=1000
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?TJKK
+#EXTINF:0, TV GRAVA
+#EXTVLCOPT:network-caching=1000
+http://stmv2.euroti.com.br:1935/redegrava/redegrava/live.m3u8
+#EXTINF:0, AD ALMADA
+#EXTVLCOPT:network-caching=1000
+http://188.165.216.211:1935/adalmada/adalmada.stream/live.m3u8
+#EXTINF:0, TV CÂMARA HD
+#EXTVLCOPT:network-caching=1000
+http://stream2.camara.gov.br:80/tv2/manifest.m3u8
+#EXTINF:0, CANAL RICOS
+#EXTVLCOPT:network-caching=1000
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/live.m3u8
+#EXTINF:0, TV COM (Maceio)
+#EXTVLCOPT:network-caching=1000
+http://srv6.zoeweb.tv:1935/z883-live/stream/chunklist_w1464132683.m3u8
+#EXTINF:0, CANAL  SETE
+#EXTVLCOPT:network-caching=1000
+http://189.51.193.98:8081/canalsete/str3/playlist.m3u8
+#EXTINF:0, NBR
+#EXTVLCOPT:network-caching=1000
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8
+#EXTINF:0, CNN HD (Noticias Chile)
+#EXTVLCOPT:network-caching=1000
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream2/chunks.m3u8
+#EXTINF:0, IFC TV GERAL
+#EXTVLCOPT:network-caching=1000
+http://s1.wsepanel.com:1935/tvgeral/tvgeral/playlist.m3u8
+#EXTINF:0, TOROS TV
+#EXTVLCOPT:network-caching=1000
+https://ssh101.com/m3u8/dyn/RTVTOROS/index.m3u8
+#EXTINF:0, CARTOON GOSPEL
+#EXTVLCOPT:network-caching=1000
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
+#EXTINF:0, CLASSIQUE TV
+#EXTVLCOPT:network-caching=1000
+http://stmv2.srvstm.com/classique/classique/playlist.m3u8
+#EXTINF:0, GOSPEL MOVEL TELEVISION
+#EXTVLCOPT:network-caching=1000
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:0, CINE+
+#EXTVLCOPT:network-caching=1000
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:0, TRAILER DE FILMES
+#EXTVLCOPT:network-caching=1000
+http://wse.planeta-online.tv:1935/live/channel_5/playlist.m3u8
+#EXTINF:0, CINE SKY 2
+#EXTVLCOPT:network-caching=1000
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
+#EXTINF:0, CAPITAL777
+#EXTVLCOPT:network-caching=1000
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
+#EXTINF:0, YEEAH TEEN
+#EXTVLCOPT:network-caching=1000
+http://stmv2.srvstm.com/yeeahteen/yeeahteen/playlist.m3u8?wowzasessionid=1971011538
+#EXTINF:0, TV ARACATI
+#EXTVLCOPT:network-caching=1000
+http://wse7.player.tv.br:1935/tvaracati/tvaracati/chunklist_w313572700.m3u8
+#EXTINF:0, TV TEEN NET
+#EXTVLCOPT:network-caching=1000
+http://stmv2.srvstm.com/tvteennet/tvteennet/playlist.m3u8?wowzasessionid=1444982722
+#EXTINF:0, REED BULL TV
+#EXTVLCOPT:network-caching=1000
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:0, AUTO MOTO TV HD
+#EXTVLCOPT:network-caching=1000
+http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
+#EXTINF:0, ALL SPORTS HD
+#EXTVLCOPT:network-caching=1000
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:0, LALIGA TV HD
+#EXTVLCOPT:network-caching=1000
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/581/index.m3u8
+#EXTINF:0, REAL MADRID TV HD
+#EXTVLCOPT:network-caching=1000
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, TLC HD
+#EXTVLCOPT:network-caching=1000
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0, TV RIO
+#EXTVLCOPT:network-caching=1000
+http://stmv4.euroti.com.br:1935/tvrio/tvrio/live.m3u8
+#EXTINF:0, MTV DANCE
+#EXTVLCOPT:network-caching=1000
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/228/index.m3u8
+#EXTINF:0, MTV DANCE
+#EXTVLCOPT:network-caching=1000
+http://91.231.219.145:80/tv_mtv_dance/video.m3u8
+#EXTINF:0, MTV LIVE
+#EXTVLCOPT:network-caching=1000
+http://playlist.onlybest.tv/ru/channel/262f9cb9e35b2e64d0571c3e9c1cd4fa/26/index.m3u8
+#EXTINF:0, TV CLIMA HD
+#EXTVLCOPT:network-caching=1000
+http://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8
+#EXTINF:0, TV RENACER GOSPEL
+#EXTVLCOPT:network-caching=1000
+http://stmv3.euroti.com.br:1935/izaias5272/izaias5272/live.m3u8
+#EXTINF:0, PORTAL GOSPEL TV
+#EXTVLCOPT:network-caching=1000
+http://s1.wsepanel.com:1935/lukfilm/lukfilm/live.m3u8?AndreOid
+#EXTINF:0, GOSPEL
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:9101/;
+#EXTINF:0, SERTANEJO UNIVERSITÁRIO
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:9191/stream
+#EXTINF:0, SERTANEJO CLÁSSICO
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:9485/stream?TV-SUPER-HD-IPTV-2
+#EXTINF:0, SERTANEJO RAIZ
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:9155/stream?
+#EXTINF:0, KIDS
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:9431/;
+#EXTINF:0, JOVEM GUARDA
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:8801/;
+#EXTINF:0, ELETRÔNICA
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:9095/stream?TV-SUPER-HD-IPTV-2
+#EXTINF:0, AXÉ
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:8305/stream?TV-SUPER-HD-IPTV-2
+#EXTINF:0, FUNK
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:9089/;
+#EXTINF:0, PAGODE
+#EXTVLCOPT:network-caching=1000
+http://6d9a.webradio.upx.net.br:9061/stream?
+#EXTINF:0, FORRÓ
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:9019/stream?
+#EXTINF:0, RAP NACIONAL
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:8377/;
+#EXTINF:0, ROCK
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:9125/stream?
+#EXTINF:0, INSCREVA NO CANAL
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/channel/UCsY8N8Dxr-F5EmuJThz34XA
+#EXTINF:0, ARG: CANAL 26 HD
+#EXTVLCOPT:network-caching=1000
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:0, ARG: TELFIN CANAL 2 HD
+#EXTVLCOPT:network-caching=1000
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8?ANTONYGTV
+#EXTINF:0, ARG: TELPIN CANAL 2 SD
+#EXTVLCOPT:network-caching=1000
+http://201.219.100.30:1935/telpintv/ttv.stream_360p/playlist.m3u8
+#EXTINF:0, ARG:CANAL PROVINCIAL SD
+#EXTVLCOPT:network-caching=1000
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8?ANTONYGTV
+#EXTINF:0, ARG: POWER HD
+#EXTVLCOPT:network-caching=1000
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:0, ARG: CANAL 9 COMODORO RIVADAVIA SD
+#EXTVLCOPT:network-caching=1000
+http://live.canalnueve.tv:8082/hls/canal.m3u8
+#EXTINF:0, ARG: CANAL 5 TELESOL HD
+#EXTVLCOPT:network-caching=1000
+http://149.56.98.124:9090/hls/telesol_mid.m3u8?ANTONYGTV
+#EXTINF:0, CHI: CDO SD
+#EXTVLCOPT:network-caching=1000
+http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8?ANTONYGTV
+#EXTINF:0, INSCREVA NO CANAL
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/channel/UCsY8N8Dxr-F5EmuJThz34XA
+#EXTINF:0,Rádio Mix FM
+#EXTVLCOPT:network-caching=1000
+http://mixaac.crossradio.com.br:1100/live
+#EXTINF:0,FM O DIA 100.5 - ESTÚDIO AO VIVO
+#EXTVLCOPT:network-caching=1000
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+#EXTINF:0,Rádio Mix FM
+#EXTVLCOPT:network-caching=1000
+http://mixaac.crossradio.com.br:1100/live
+#EXTINF:0,Rádio Coca Cola FM
+#EXTVLCOPT:network-caching=1000
+http://ic.iradios\musicas\som (leo gondim)radios\musicas\som (leo gondim).com.br:8000/brasil.stream.http?url=tunein
+#EXTINF:0,Rádio Transamerica FM
+#EXTVLCOPT:network-caching=1000
+http://transamerica.crossradio.com.br:9114/live.mp3
+#EXTINF:0,ROBERTO CARLOS
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:9137/stream
+#EXTINF:0,FM O DIA 100.5 - ESTÚDIO AO VIVO
+#EXTVLCOPT:network-caching=1000
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+#EXTINF:0,Rádio Mix FM
+#EXTVLCOPT:network-caching=1000
+http://mixaac.crossradio.com.br:1100/live
+#EXTINF:0,MENINA FM
+#EXTVLCOPT:network-caching=1000
+http://06.stmip.net:7674/;
+#EXTINF:0,Rádio Coca Cola FM
+#EXTVLCOPT:network-caching=1000
+http://ic.iradios\musicas\som (leo gondim)radios\musicas\som (leo gondim).com.br:8000/brasil.stream.http?url=tunein
+#EXTINF:0,Rádio Mix FM
+#EXTVLCOPT:network-caching=1000
+http://mixaac.crossradio.com.br:1100/live
+#EXTINF:0,FM O DIA 100.5 - ESTÚDIO AO VIVO
+#EXTVLCOPT:network-caching=1000
+http://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+#EXTINF:0,104.9 MARIA ROSA FM
+#EXTVLCOPT:network-caching=1000
+http://streaming10.hstbr.net:8124/live
+#EXTINF:0,Top TV
+#EXTVLCOPT:network-caching=1000
+http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8
+#EXTINF:0,Rede New
+#EXTVLCOPT:network-caching=1000
+http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8
+#EXTINF:0,SB4
+#EXTVLCOPT:network-caching=1000
+http://media.az-mediaserver.com:1935/7120/7120/playlist.m3u8
+#EXTINF:0,Heart TV
+#EXTVLCOPT:network-caching=1000
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0,RÁDIO GAÚCHA FM/AM
+#EXTVLCOPT:network-caching=1000
+http://542747t.ls.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/gaucha_rbs.sdp/playlist.m3u8
+#EXTINF:0,RÁDIO MIX FM
+#EXTVLCOPT:network-caching=1000
+http://mixaac.crossradio.com.br:1100/live
+#EXTINF:0,RÁDIO ENERGIA FM
+#EXTVLCOPT:network-caching=1000
+http://audio.97fm.com.br/energia
+#EXTINF:0,be" group-title="radios\musicas\som (leo gondim)" - NRJ Hits TV
+#EXTVLCOPT:network-caching=1000
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?CANALANDRONALTAS
+#EXTINF:0,Heart TV
+#EXTVLCOPT:network-caching=1000
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8?CANALANDRONALTAS
+#EXTINF:0,VH1 HD
+#EXTVLCOPT:network-caching=1000
+http://91.231.219.145/tv_vh1_classic/video.m3u8?CANALANDRONALTAS
+#EXTINF:0,Heart TV2
+#EXTVLCOPT:network-caching=1000
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-b.m3u8?sd=10&rebase=on?CANALANDRONALTAS
+#EXTINF:0,VH1 Classic HD
+#EXTVLCOPT:network-caching=1000
+http://91.231.219.145/tv_vh1_classic/video.m3u8?CANALANDRONALTAS
+#EXTINF:0,Heart TV
+#EXTVLCOPT:network-caching=1000
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8?CANALANDRONALTAS
+#EXTINF:0,Larsavision TV
+#EXTVLCOPT:network-caching=1000
+http://s5.mexside.net:1935/larsavision/larsavision/chunklist_w217764138.m3u8?CANALANDRONALTAS
+#EXTINF:0,be" group-title="radios\musicas\som (leo gondim)" - NRJ Hits TV
+#EXTVLCOPT:network-caching=1000
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?CANALANDRONALTAS
+#EXTINF:0,Retro TV
+#EXTVLCOPT:network-caching=1000
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:0,DJing Dance Floor Music
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/dancefloor.m3u8?CANALANDRONALTAS
+#EXTINF:0,DJing Hits
+#EXTVLCOPT:network-caching=1000
+http://www.djing.com/tv/04.m3u8?CANALANDRONALTAS
+#EXTINF:0,TiVu
+#EXTVLCOPT:network-caching=1000
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?CANAISGLAU?CANALANDRONALTAS
+#EXTINF:0,Capital TV UK
+#EXTVLCOPT:network-caching=1000
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-b.m3u8?sd=10?CANALANDRONALTAS
+#EXTINF:0,Cool 103.7 HD
+#EXTVLCOPT:network-caching=1000
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8?CANAISGLAU?CANALANDRONALTAS
+#EXTINF:0,The Country Network
+#EXTVLCOPT:network-caching=1000
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8?CANALANDRONALTAS
+#EXTINF:0,Vibee
+#EXTVLCOPT:network-caching=1000
+http://46.101.21.42:8081/live/live2/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:0,City Radio TV
+#EXTVLCOPT:network-caching=1000
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8?CANALANDRONALTAS
+#EXTINF:0,Radio 105 TV
+#EXTVLCOPT:network-caching=1000
+http://fms.105.net:1935/live/105Test1/livestream.m3u8?CANALANDRONALTAS
+#EXTINF:0,PortalFoxMix Tv
+#EXTVLCOPT:network-caching=1000
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:0,Colosal TV
+#EXTVLCOPT:network-caching=1000
+http://k3.usastreams.com:1935/colosaltv1/colosaltv1/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:0,Planeta HD
+#EXTVLCOPT:network-caching=1000
+http://84.43.207.130/planetahd/planetahd.m3u8?CANALANDRONALTAS
+#EXTINF:0,U TV
+#EXTVLCOPT:network-caching=1000
+http://81.196.0.126/utvedge/utvlivehls/chunklist_w1688658104.m3u8?CANALANDRONALTAS
+#EXTINF:0,Best Smooth Jazz
+#EXTVLCOPT:network-caching=1000
+http://64.95.243.43:8002/stream.ogg?CANALANDRONALTAS
+#EXTINF:0,MC Play
+#EXTVLCOPT:network-caching=1000
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8?CANALANDRONALTAS
+#EXTINF:0,Cool 103.7 HD
+#EXTVLCOPT:network-caching=1000
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8?CANAISGLAU?CANALANDRONALTAS
+#EXTINF:0,Planeta HD
+#EXTVLCOPT:network-caching=1000
+http://84.43.207.130/planetahd/planetahd.m3u8?CANALANDRONALTAS
+#EXTINF:0,Radio 105 TV
+#EXTVLCOPT:network-caching=1000
+http://fms.105.net:1935/live/105Test1/livestream.m3u8?CANALANDRONALTAS
+#EXTINF:0,Music Box
+#EXTVLCOPT:network-caching=1000
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:0,RUTV
+#EXTVLCOPT:network-caching=1000
+https://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.rmg?CANAISGLAU
+#EXTINF:0,MUZ TV
+#EXTVLCOPT:network-caching=1000
+http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8?CANALANDRONALTAS
+#EXTINF:0,Melody Channel
+#EXTVLCOPT:network-caching=1000
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?CANALANDRONALTAS
+#EXTINF:0,Fresh Tv Music
+#EXTVLCOPT:network-caching=1000
+http://wse.planeta-online.tv:1935/live/channel_4/playlist.m3u8?CANAISGLAU?CANALANDRONALTAS
+#EXTINF:0,Carolina TV (Chile)
+#EXTVLCOPT:network-caching=1000
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:0,Antena FM
+#EXTVLCOPT:network-caching=1000
+http://5.135.83.159/stream2
+#EXTINF:0,Atlantico Sul FM
+#EXTVLCOPT:network-caching=1000
+http://142.44.230.74:9026/live
+#EXTINF:0,Rock
+#EXTVLCOPT:network-caching=1000
+https://stream.vagalume.fm/hls/1464201608479108132/aac.m3u8
+#EXTINF:0,13FM Awesome 80s USA
+#EXTVLCOPT:network-caching=1000
+http://104.200.142.184:80/1719_128?CANALANDRONALTAS
+#EXTINF:0,113FM Awesome 80s - 1986
+#EXTVLCOPT:network-caching=1000
+http://104.200.142.184:80/1751_128?CANALANDRONALTAS
+#EXTINF:0,Rádio Só FlashBack - São Luís
+#EXTVLCOPT:network-caching=1000
+http://stm41.srvstm.com:12648/;?CANALANDRONALTAS
+#EXTINF:0,Rádio Só Flashbacks - São José do Rio Preto
+#EXTVLCOPT:network-caching=1000
+http://streaming08.hstbr.net:8236/live?1498650116613?CANALANDRONALTAS
+#EXTINF:0,FM Love Classics
+#EXTVLCOPT:network-caching=1000
+http://strm112.1.fm/loveclassics_mobile_mp3?CANALANDRONALTAS
+#EXTINF:0,Rádio 80 FM - São Paulo
+#EXTVLCOPT:network-caching=1000
+http://192.198.204.194:9020/;?CANALANDRONALTAS
+#EXTINF:0,ROBERTO CARLOS FM
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:9137/stream?CANALANDRONALTAS
+#EXTINF:0,Saudade Anos 80
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:8697/stream?CANALANDRONALTAS
+#EXTINF:0,Kiss FM
+#EXTVLCOPT:network-caching=1000
+http://kissfm.live24.gr/kiss2111?CANAISGLAU?CANALANDRONALTAS
+#EXTINF:0,Rock FM
+#EXTVLCOPT:network-caching=1000
+http://80.86.106.143:9128/rockfm.mp3?CANALANDRONALTAS
+#EXTINF:0,Energia FM
+#EXTVLCOPT:network-caching=1000
+http://aac.97fm.com.br/energia?type=.flv?CANALANDRONALTAS
+#EXTINF:0,Mix Sao Paulo
+#EXTVLCOPT:network-caching=1000
+http://tuneinmix.crossradio.com.br:8008/;?CANALANDRONALTAS
+#EXTINF:0,Marinha FM
+#EXTVLCOPT:network-caching=1000
+http://sh1.upx.com.br:9191/;stream.mp3?1493327173062?CANALANDRONALTAS
+#EXTINF:0,Radio JBFM RJ
+#EXTVLCOPT:network-caching=1000
+http://13693.live.streamtheworld.com/JBFM_SC?CANALANDRONALTAS
+#EXTINF:0,Antena 1 FM
+#EXTVLCOPT:network-caching=1000
+http://antena1.newradio.it/stream?ext=.mp3?CANALANDRONALTAS
+#EXTINF:0,Radio UFMG FM
+#EXTVLCOPT:network-caching=1000
+http://150.164.63.210:8000/stream?CANALANDRONALTAS
+#EXTINF:0,Forró
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:9019/stream?CANALANDRONALTAS
+#EXTINF:0,Anos 2000
+#EXTVLCOPT:network-caching=1000
+http://6d9a.webradio.upx.net.br:9940/stream?CANALANDRONALTAS
+#EXTINF:0,Pagode
+#EXTVLCOPT:network-caching=1000
+http://6d9a.webradio.upx.net.br:9061/stream?CANALANDRONALTAS
+#EXTINF:0,Bossa Nova
+#EXTVLCOPT:network-caching=1000
+http://6d9a.webradio.upx.net.br:9974/stream?CANALANDRONALTAS
+#EXTINF:0,MPB
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:8775/stream?CANALANDRONALTAS
+#EXTINF:0,Anos 70
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:8241/stream?CANALANDRONALTAS
+#EXTINF:0,Pop Rock
+#EXTVLCOPT:network-caching=1000
+http://6d9a.webradio.upx.net.br:8016/stream?CANALANDRONALTAS
+#EXTINF:0,Lounge
+#EXTVLCOPT:network-caching=1000
+http://6d9a.webradio.upx.net.br:9064/stream?CANALANDRONALTAS
+#EXTINF:0,Rock Clássico
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:9125/stream?CANALANDRONALTAS
+#EXTINF:0,Funk
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:9089/stream?CANALANDRONALTAS
+#EXTINF:0,Sertanejo
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:9485/stream?CANALANDRONALTAS
+#EXTINF:0,Festa
+#EXTVLCOPT:network-caching=1000
+http://6d9a.webradio.upx.net.br:9070/stream?CANALANDRONALTAS
+#EXTINF:0,Eletrônica
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:9095/stream?CANALANDRONALTAS
+#EXTINF:0,Rap Nacional
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:8377/stream?CANALANDRONALTAS
+#EXTINF:0,Românticas
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:8962/stream?CANALANDRONALTAS
+#EXTINF:0,Anos 90
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:8056/stream?CANALANDRONALTAS
+#EXTINF:0,Anos 80
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:8697/stream?CANALANDRONALTAS
+#EXTINF:0,Hip Hop
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:8721/stream?CANALANDRONALTAS
+#EXTINF:0,Axé
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:8305/stream?CANALANDRONALTAS
+#EXTINF:0,Jazz
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:8042/stream?CANALANDRONALTAS
+#EXTINF:0,Trilhas Sonoras
+#EXTVLCOPT:network-caching=1000
+http://6d9a.webradio.upx.net.br:9896/stream?CANALANDRONALTAS
+#EXTINF:0,Metal
+#EXTVLCOPT:network-caching=1000
+http://6d9a.webradio.upx.net.br:9898/stream?CANALANDRONALTAS
+#EXTINF:0,Pop Hits
+#EXTVLCOPT:network-caching=1000
+http://6d9a.webradio.upx.net.br:9046/stream?CANALANDRONALTAS
+#EXTINF:0,Sertanejo Universitário
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:9191/stream?CANALANDRONALTAS
+#EXTINF:0,Reggae
+#EXTVLCOPT:network-caching=1000
+http://192.99.150.31:8715/stream?CANALANDRONALTAS
+#EXTINF:0,New Rock
+#EXTVLCOPT:network-caching=1000
+http://6d9a.webradio.upx.net.br:8028/stream?CANALANDRONALTAS
